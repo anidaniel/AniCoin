@@ -1,0 +1,22 @@
+{
+  "name": "anicoin",
+  "version": "1.8.1",
+  "description": "Blockchain based self-signed cryptocurreny (ledger based) | code name: 'anicoin'",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anidaniel/AniCoin.git"
+  },
+  "author": "Aniruddha Prasad <anidanielcorp@gmail.com> (https://www.anidaniel.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anidaniel/AniCoin/issues"
+  },
+  "homepage": "https://github.com/anidaniel/AniCoin#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
